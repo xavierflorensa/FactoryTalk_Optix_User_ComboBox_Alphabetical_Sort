@@ -1,0 +1,25 @@
+Name: Users
+Id: g=8cdfe95c558e909385d4fe7ddc9a2655
+Type: UsersCategoryFolder
+Children:
+- Name: Pere
+  Id: g=69fc8dfc89b904c73447deb8f235edaf
+  Type: UserType
+- Name: Joan
+  Id: g=37dc52061385a8f91982855c6294700a
+  Type: UserType
+- Name: Xavier
+  Id: g=a7739a0c0bfaf9d3e1a9f5c316d45626
+  Type: UserType
+- Name: Victor
+  Id: g=5a63d502252c0aae3691ecb93372ae61
+  Type: UserType
+- Name: Francesc
+  Id: g=420a5545dc587e783fb459a0be302344
+  Type: UserType
+- Name: Toni
+  Id: g=b80d8f719b7e27605bd5e58ff4c799b9
+  Type: UserType
+- Name: Albert
+  Id: g=f65aa33c97e7fd75a9cec2b4fd79689d
+  Type: UserType

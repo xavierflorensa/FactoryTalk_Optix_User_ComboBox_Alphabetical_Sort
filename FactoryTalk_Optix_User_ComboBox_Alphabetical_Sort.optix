@@ -1,0 +1,44 @@
+Project:
+ Name: FactoryTalk_Optix_User_ComboBox_Alphabetical_Sort
+ GUID: 7c804ff80198b4d22246c0812cef775b
+ ProjectNamespaceIndex: 7
+ Description: ''
+ Company: ''
+ Copyright: ''
+ FormatVersion: 1
+ ProductVersion: 1.4
+ CoreVersion: 3.0
+ Dependencies:
+  2:
+   Uri: 'urn:FTOptix:CoreBase'
+   Module: FTOptix.CoreBase
+   Version: 4.0
+  3:
+   Uri: 'urn:FTOptix:UI'
+   Module: FTOptix.UI
+   Version: 12.4
+  4:
+   Uri: 'urn:FTOptix:Retentivity'
+   Module: FTOptix.Retentivity
+   Version: 1.0
+  5:
+   Uri: 'urn:FTOptix:HMIProject'
+   Module: FTOptix.HMIProject
+   Version: 6.1
+  6:
+   Uri: 'urn:FTOptix:NativeUI'
+   Module: FTOptix.NativeUI
+   Version: 2.0
+ Statistics:
+  TotalNodeCount: 146
+  Objects: 74
+  ObjectTypes: 1
+  Variables: 71
+  VariableTypes: 0
+  DataTypes: 0
+  Methods: 0
+  References: 1
+  ReferenceTypes: 0
+  Files: 20
+ Nodes:
+ - File: Nodes/FactoryTalk_Optix_User_ComboBox_Alphabetical_Sort.yaml
